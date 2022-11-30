@@ -2,16 +2,6 @@
 <Menu>
  <Menu>
   <Name>Development</Name>
-  <Layout>
-   <Merge type="menus"/>
-   <Menuname>Translation</Menuname>
-   <Menuname>Web Development</Menuname>
-   <Merge type="files"/>
-   <Filename>org.kde.kgpg.desktop</Filename>
-   <Filename>org.gnome.Meld.desktop</Filename>
-   <Filename>sublime_text.desktop</Filename>
-   <Filename>org.kde.kuserfeedback-console.desktop</Filename>
-  </Layout>
   <Include>
    <Filename>org.kde.kgpg.desktop</Filename>
   </Include>
@@ -21,7 +11,15 @@
    <Filename>designer.desktop</Filename>
    <Filename>linguist.desktop</Filename>
    <Filename>qdbusviewer.desktop</Filename>
+   <Filename>org.kde.kuserfeedback-console.desktop</Filename>
   </Exclude>
+  <Layout>
+   <Merge type="menus"/>
+   <Menuname>Translation</Menuname>
+   <Menuname>Web Development</Menuname>
+   <Merge type="files"/>
+   <Filename>org.kde.kate.desktop</Filename>
+  </Layout>
  </Menu>
  <Menu>
   <Name>Internet</Name>
@@ -155,6 +153,7 @@
    <Filename>qt5ct.desktop</Filename>
    <Filename>bssh.desktop</Filename>
    <Filename>bvnc.desktop</Filename>
+   <Filename>org.kde.kuserfeedback-console.desktop</Filename>
   </Include>
  </Menu>
 </Menu>
