@@ -6,7 +6,7 @@ NumLock=0
 
 [Mouse]
 X11LibInputXAccelProfileFlat=false
-cursorTheme=Breeze_Snow
+cursorTheme=BreezeX-Light
 
 [Tmp]
 update_info=delete_cursor_old_default_size.upd:DeleteCursorOldDefaultSize
