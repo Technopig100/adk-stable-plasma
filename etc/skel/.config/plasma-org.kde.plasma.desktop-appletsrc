@@ -58,7 +58,7 @@ DialogHeight=540
 DialogWidth=720
 
 [Containments][2][Applets][23][Configuration][General]
-customButtonImage=distributor-logo-adklinux.scale(White)
+customButtonImage=/usr/share/pixmaps/distributor-logo-adklinux.scale(White).png
 favoritesPortedToKAstats=true
 hiddenApplications=lftp.desktop,qv4l2.desktop,qvidcap.desktop
 useCustomButtonImage=true
